@@ -55,34 +55,9 @@ git clone https://github.com/vaibhava17/clubs-event-handler.git
 3. You're inside the Admin Panel. 🤖
 
 
-### Screenshots
-
-![Image of Home page](https://github.com/vaibhava17/clubs-event-handler/blob/master/images/ceh-sampleshots/picture1.png)
-
-![Image of Club Home page](https://github.com/vaibhava17/clubs-event-handler/blob/master/images/ceh-sampleshots/picture2.png)
-
-![Image of Application Form](https://github.com/vaibhava17/clubs-event-handler/blob/master/images/ceh-sampleshots/picture3.png)
-
-![Image of Event Card in Club Home Page](https://github.com/vaibhava17/clubs-event-handler/blob/master/images/ceh-sampleshots/picture4.png)
-
-![Image of Event Enrollment Form](https://github.com/vaibhava17/clubs-event-handler/blob/master/images/ceh-sampleshots/picture5.png)
-
-![Image of Admin Panel Login](https://github.com/vaibhava17/clubs-event-handler/blob/master/images/ceh-sampleshots/picture6.png)
-
-![Image of Admin Panel Dashboard](https://github.com/vaibhava17/clubs-event-handler/blob/master/images/ceh-sampleshots/picture7.png)
-
-![Image of Super Admin - Members List](https://github.com/vaibhava17/clubs-event-handler/blob/master/images/ceh-sampleshots/picture8.png)
-
-![Image of Super Admin - Club Events Viewer](https://github.com/vaibhava17/clubs-event-handler/blob/master/images/ceh-sampleshots/picture9.png)
-
-
 ## Contributing
 
 <h4>Merge Requests Are Always Welcome.</h4>
 <p>For major changes or bug fixes, Fork the repo and create new Branch `origin/branch-name`.<br>
 After testing and running of your improvements, issue a Merge Request.<br>
 Approved MR will be Accepted.<br></p>
-
-## License 
-
-Read [LICENSE](https://github.com/vaibhava17/clubs-event-handler/blob/master/LICENSE)
