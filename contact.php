@@ -53,9 +53,9 @@ include('plugins/head.php');
       <!-- Left contact page -->
       <div class="direct-contact-container">
         <ul class="contact-list">
-          <li class="list-item"><span class="contact-text place">10Km Milestone, Bareilly</span></i></li>
-          <li class="list-item"><span class="contact-text phone"><a href="tel:1-212-555-5555" title="Give me a call">075994 71144</a></span></i></li>
-          <li class="list-item"><span class="contact-text gmail"><a href="mailto:#" title="Send me an email">contact@ssvgi.org</a></span></i></li>
+          <li class="list-item"><span class="contact-text place">Kanuru, Vijayawada</span></i></li>
+          <li class="list-item"><span class="contact-text phone"><a href="tel:1-212-555-5555" title="Give me a call">0866 – 2582333</a></span></i></li>
+          <li class="list-item"><span class="contact-text gmail"><a href="mailto:#" title="Send me an email">registrar@vrsiddhartha.ac.in</a></span></i></li>
         </ul>
         <hr>
         <ul class="social-media-list">

@@ -9,9 +9,9 @@
         <hr>
         <br>
         
-        <div class="d-flex flex-wrap align-content-center"> <a href="#"><img src="images/ssvgi/ssvgi-logo.jpg" alt="logo" style="height: 50px;"/></a>
-          <h2>SSVGI Activity Clubs</h2>
-          <p>&copy; 2021 SSVGI. All rights reserved.<br> Design by <a href="https://webpaage.in/" target="_blank">Vaibhav, Smita, Muskan and Jishan </a>.</p>
+        <div class="d-flex flex-wrap align-content-center"> <a href="#"><img src="images/ssvgi/logo.jpeg" alt="logo" style="height: 50px;"/></a>
+          <h2>SAHE Activity Clubs</h2>
+          <p>&copy; 2025 SAHE. All rights reserved.<br> Design by <a href="https://webpaage.in/" target="_blank">Shafina,Prameela,Khyathi,Touheed,Vineeth </a>.</p>
         </div>
       </div>
       <div class="col-md-6 footer2 wow bounceInUp" data-wow-delay=".25s" id="contact">
@@ -45,11 +45,11 @@
       </div>
       <div class="col-md-3 footer3 wow bounceInRight" data-wow-delay=".25s">
         <h5>ADDRESS</h5>
-        <p>10th Km, Bareilly - Nainital Rd, Near Dohna Railway Station, Bareilly, Uttar Pradesh 243001</p>
+        <p>FMMR+XFJ, TCR Colony, Chalasani Nagar, Kanuru, Vijayawada, Andhra Pradesh 520007</p>
         <h5>PHONE</h5>
-        <p>075994 71144</p>
+        <p> 0866 – 2582333 </p>
         <h5>EMAIL</h5>
-        <p>contact@ssvgi.org</p>
+        <p>registrar@vrsiddhartha.ac.in</p>
         <div class="social-links">
           <ul class="nav nav-item">
             <li><i class="fab fa-twitter"></i></li>

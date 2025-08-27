@@ -50,7 +50,7 @@ include('plugins/head.php');
                             </div>
                             <div class="card-body">
                                 <div class="author">
-                                    <img class="avatar border-gray" src="../images/logo.jpg" alt="...">
+                                    <img class="avatar border-gray" src="../images/logo.jpeg" alt="...">
                                     <h5 class="title">You are Not Authorized</h5>
                                     <p>The requested URL is blocked. </p>
                                 </div>

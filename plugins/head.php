@@ -2,8 +2,8 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="icon" type="image/png" href="images/ssvgi/ssvgi-logo.jpg">
-  <title>SSVGI - Activity Club</title>
+  <link rel="icon" type="image/png" href="images/ssvgi/logo.jpeg">
+  <title>SAHE- Activity Club</title>
 
   <!-- Bootstrap CSS -->
   <link href="assets/css/css/animate.css" rel="stylesheet">
@@ -68,7 +68,7 @@
 
     /*about*/
     .about {
-      background: url(images/ssvgi/about.png) no-repeat left;
+      background: url(images/ssvgi/about.jpg) no-repeat left;
       background-size: 55%;
       background-color: #000;
       overflow: hidden;

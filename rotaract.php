@@ -16,13 +16,14 @@ include('plugins/head.php');
   <br>
   <center>
     <div class="container">
-      <h3 style=" text-align:center; ">Rotaract</h3>
+      <h3 style=" text-align:center; ">Creatix</h3>
       <hr>
       <div class="row">
         <div class="col"> <img src="images/ssvgi/club/rotaract.jpg"></div>
         <div class="col">
           <br>
-          <p>This Club appreciates inclination in good physical well-being and encourages students to participate in National and International sports event. Stride Club aims at offering an opportunity to participate in a broad variety of sports and recreational activities. This Club provides a valuable learning experience through student involvement and enhances the student’s experience that contributes to the student’s overall education and wellness.</p>
+          <p>This Photography Club is a creative space for students passionate about capturing the world through their lens.
+          We explore various styles of photography, conduct photo walks, workshops, and collaborate on college events to visually document memories.</p>
           <br>
           <br>
           <a href=""><i class="fab fa-instagram fa-lg"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +32,7 @@ include('plugins/head.php');
           <br>
           <div class="container">
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#form">
-              Apply For Rotaract Club
+              Apply For Creatix Club
             </button>
           </div>
           <div class="modal fade" id="form" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -65,10 +66,10 @@ include('plugins/head.php');
                       <label for="post">Post</label>
                       <select class="form-control form2" style="background-color:white;" name="v_post" placeholder="Select Post">
                         <option>Select Post</option>
-                        <option>President</option>
-                        <option>Vice President</option>
-                        <option>Secretary</option>
-                        <option>Joint Secretary</option>
+                        <option>Photographer</option>
+                        <option>Event Manager</option>
+                        <option>Social Media Manager</option>
+                        <option>Creative Director</option>
                         <option>Treasurer</option>
                       </select>
                       <br>

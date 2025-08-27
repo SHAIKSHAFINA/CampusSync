@@ -110,8 +110,8 @@ if (isset($_POST['login'])) {
               </div>
               <div class="card-body">
                 <div class="author">
-                  <img class="avatar border-gray" src="../images/ssvgi/ssvgi-logo.jpg" alt="...">
-                  <h5 class="title">Welcome To SSVGI CEH</h5>
+                  <img class="avatar border-gray" src="../images/ssvgi/logo.jpeg" alt="...">
+                  <h5 class="title">Welcome To SAHE</h5>
                   <form action="login.php" method="POST">
                     <div class="row">
                       <div class="col-md-1">

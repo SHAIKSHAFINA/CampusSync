@@ -30,11 +30,11 @@ include('plugins/head.php');
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <h4 class="wow bounceInUp" style="color: white;">Literary and Fine Arts Club</h4>
+        <h4 class="wow bounceInUp" style="color: white;">Literary Clubs</h4>
         <h2 class="wow bounceInRight">KALANJALI</h2>
         <hr>
         <p class="wow bounceInDown" style="color: white;">KALANJALI : Kalanjanli enhances dynamic literary, creative and artistic abilities of the student. Artistic pursuit from a tender age instills creativity and develops the mind to appreciate and value of nature.
-        Education prospers, if the person sees it with an Artistic view & may be art or literature, as high thoughts must have high language. To bring in the said culture, Shri Siddhi Vinayak Group of Institution has taken another initiative, launching fine Art, Literary & Media club. It inculcates the habit of reading books, in turn absorbing soft skills and developing presentation skills, which sets a policy for Lifelong learning skills. This club also provides a platform for any fine art demonstration and spread the essence in order to motivate others to divine into the world of arts and excel in those chosen area along with their day-to-day academic activities. 
+        Education prospers, if the person sees it with an Artistic view & may be art or literature, as high thoughts must have high language. To bring in the said culture, Siddhartha Academy of Higher Education  has taken another initiative, launching fine Art, Literary & Media club. It inculcates the habit of reading books, in turn absorbing soft skills and developing presentation skills, which sets a policy for Lifelong learning skills. This club also provides a platform for any fine art demonstration and spread the essence in order to motivate others to divine into the world of arts and excel in those chosen area along with their day-to-day academic activities. 
       </p>
       </div>
       <div class="col-md-6">
@@ -77,9 +77,9 @@ include('plugins/head.php');
     <div class="row">
       <div class="col-md-6">
         <h4 class="wow bounceInUp" style="color: white;">The Cultural Club </h4>
-        <h2 class="wow bounceInRight">OASIS</h2>
+        <h2 class="wow bounceInRight">Samskruthi</h2>
         <hr>
-        <p class="wow bounceInDown" style="color: white;">OASIS : The aim of the club is to provide students a platform to showcase their talent in singing, dancing, dramatics which improves their personality and also strengthen their skills and presentation and leadership qualities. It helps them to learn about team work and also students are recognized as an individual among many.</p>
+        <p class="wow bounceInDown" style="color: white;">Samskruthi : The aim of the club is to provide students a platform to showcase their talent in singing, dancing, dramatics which improves their personality and also strengthen their skills and presentation and leadership qualities. It helps them to learn about team work and also students are recognized as an individual among many.</p>
       </div>
       <div class="col-md-6">
         <figure class="wow bounceInDown">
@@ -101,7 +101,7 @@ include('plugins/head.php');
         <h4 class="wow bounceInUp" style="color: white;">Technical and Management Club</h4>
         <h2 class="wow bounceInRight">GIZMOFREAKS</h2>
         <hr>
-        <p class="wow bounceInDown" style="color: white;">GIZMOFREAKS : This club working as a technical and management Club in SSVGI aims is to provide an opportunity for you to explore the amazing world of technology , to innovate, to learn, to create and a place for you to realize your dreamland develop the next killer technology.</p>
+        <p class="wow bounceInDown" style="color: white;">GIZMOFREAKS : This club working as a technical and management Club in SAHE aims is to provide an opportunity for you to explore the amazing world of technology , to innovate, to learn, to create and a place for you to realize your dreamland develop the next killer technology.</p>
       </div>
       <div class="col-md-6">
         <figure class="wow bounceInDown"> 
@@ -119,10 +119,11 @@ include('plugins/head.php');
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <h4 class="wow bounceInUp" style="color: white;">Rotaract Club</h4>
-        <h2 class="wow bounceInRight">ROTARACT</h2>
+        <h4 class="wow bounceInUp" style="color: white;">Photography Club</h4>
+        <h2 class="wow bounceInRight">CREATIX</h2>
         <hr>
-        <p class="wow bounceInDown" style="color: white;">Rotaract : This club working as a technical and management Club in SSVGI aims is to provide an opportunity for you to explore the amazing world of technology , to innovate, to learn, to create and a place for you to realize your dreamland develop the next killer technology.</p>
+        <p class="wow bounceInDown" style="color: white;">CREATIX : The Photography Club is a creative space for students passionate about capturing the world through their lens.
+        We explore various styles of photography, conduct photo walks, workshops, and collaborate on college events to visually document memories..</p>
       </div>
       <div class="col-md-6">
         <figure class="wow bounceInDown"> 

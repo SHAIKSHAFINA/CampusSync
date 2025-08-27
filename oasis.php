@@ -10,13 +10,13 @@
   <br>
   <center>
     <div class="container">
-      <h3 style=" text-align:center; ">Oasis (The Cultural Club)</h3>
+      <h3 style=" text-align:center; ">Samskruthi (The Cultural Club)</h3>
       <hr>
       <div class="row">
         <div class="col"> <img src="images/ssvgi/club/drama.jpg"></div>
         <div class="col">
           <br>
-          <p>This Club appreciates inclination in good physical well-being and encourages students to participate in National and International sports event. Stride Club aims at offering an opportunity to participate in a broad variety of sports and recreational activities. This Club provides a valuable learning experience through student involvement and enhances the student’s experience that contributes to the student’s overall education and wellness.</p>
+          <p>TThe aim of the club is to provide students a platform to showcase their talent in singing, dancing, dramatics which improves their personality and also strengthen their skills and presentation and leadership qualities. It helps them to learn about team work and also students are recognized as an individual among many.</p>
           <br>
           <br>
           <a href=""><i class="fab fa-instagram fa-lg"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,7 @@
           <br>
           <div class="container">
             <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#form">
-              Apply For Oasis Club
+              Apply For Samskruthi Club
             </button>
           </div>
           <div class="modal fade" id="form" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -58,12 +58,13 @@
                     <div class="form-group">
                       <label for="post">Post</label>
                       <select class="form-control form2" style="background-color:white;" name="v_post" placeholder="Select Post">
-                        <option>Select Post</option>
-                        <option>President</option>
-                        <option>Vice President</option>
-                        <option>Secretary</option>
-                        <option>Joint Secretary</option>
-                        <option>Treasurer</option>
+                      <option>Select Post</option>
+                        <option>Singer</option>
+                        <option>Dancer</option>
+                        <option>Actor</option>
+                        <option>Musician</option>
+                        <option>Anchor</option>
+                        <option>Stand Up-Comedian</option>
                       </select>
                       <br>
                       <label for="post">Uploade Your Resume</label>

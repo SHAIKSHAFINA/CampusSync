@@ -54,8 +54,8 @@ include('plugins/head.php');
                             </div>
                             <div class="card-body">
                                 <div class="author">
-                                    <img class="avatar border-gray" src="../images/ssvgi/ssvgi-logo.jpg" alt="...">
-                                    <h5 class="title">Welcome To SSVGI Club Event Handler</h5>
+                                    <img class="avatar border-gray" src="../images/ssvgi/logo.jpeg" alt="...">
+                                    <h5 class="title">Welcome To SAHE Club Event Handler</h5>
                                     <a href="login.php">
                                         <button type="submit" class="btn btn-primary" name="login">Enter</button>
                                     </a>

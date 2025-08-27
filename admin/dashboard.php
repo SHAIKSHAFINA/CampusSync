@@ -21,7 +21,7 @@ if (isset($_SESSION['role']) && $_SESSION['role'] != 'admin') {
         <div class="col">
           <div class="card card-chart">
             <div class="card-header">
-              <h4 class="card-title text-center my-5">Welcome To Admin Panel of SSVGI Activities Clubs</h4>
+              <h4 class="card-title text-center my-5">Welcome To Admin Panel of SAHE Activities Clubs</h4>
             </div>
             <div class="card-body">
               <div class="chart-area row justify-content-center">
